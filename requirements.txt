@@ -1,0 +1,22 @@
+# Main environment for Stage 2 training and inference (Diffusers stack).
+# Verified with Python 3.10 and CUDA 11.8.
+#
+# NOTE: Stage 2 and inference require the InstanceDiffusion-extended
+# Diffusers fork vendored at third_party/diffusers (adds the `unifusion`
+# attention type used by kyeongry/instancediffusion_sd15). Stock PyPI
+# diffusers will NOT work. Install from the repository root so the
+# relative path below resolves.
+-e ./third_party/diffusers
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.7.0
+torchvision==0.22.0
+accelerate==1.12.0
+transformers==4.57.3
+einops==0.8.1
+kornia==0.8.2
+scikit-image==0.25.2
+numpy==2.2.6
+safetensors==0.7.0
+pillow
+tqdm
+wandb
