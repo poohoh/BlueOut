@@ -7,7 +7,7 @@ Official PyTorch implementation of the ECCV 2026 paper.
 > Hanyang University<br>
 > ECCV 2026
 >
-> [[Project Page]](https://poohoh.github.io/BlueOut.github.io/) [Paper] [[ArXiv]](https://arxiv.org/abs/2607.06162)
+> [[Project Page]](https://poohoh.github.io/BlueOut.github.io/) [Paper] [[ArXiv]](https://arxiv.org/abs/2607.06162) [[Video]](https://www.youtube.com/watch?v=0_czRYLmRzs)
 
 A two-stage diffusion framework for layout-controllable high-resolution
 artwork outpainting: **Stage 1** generates a low-resolution global blueprint
