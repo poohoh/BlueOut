@@ -16,7 +16,7 @@ checkpoints/
 For inference, download both files from Google Drive and place them as above:
 
 ```text
-https://drive.google.com/drive/u/0/folders/1K8P41CimIOjEjnON1GI7eMN2hTinlktf
+https://drive.google.com/drive/folders/1TntLEn7eJgU9AdEmy1FWUZl6T7dPnC8p?usp=sharing
 ```
 
 If you train from scratch instead, copy your chosen epoch checkpoints to the
