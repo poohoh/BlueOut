@@ -41,7 +41,7 @@ Tested with Python 3.10, PyTorch 2.7 (cu118); CUDA is required.
 ## Checkpoints
 
 Download the checkpoints from
-[Google Drive](https://drive.google.com/drive/u/0/folders/1K8P41CimIOjEjnON1GI7eMN2hTinlktf)
+[Google Drive](https://drive.google.com/drive/folders/1TntLEn7eJgU9AdEmy1FWUZl6T7dPnC8p?usp=sharing)
 and place them at:
 
 ```text
